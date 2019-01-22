@@ -4,26 +4,26 @@ Dropout is a regularisation technique in neural network training where unit acti
 
 ## Results
 
-[MNIST 32 activations](http://jcboyd.github.io/assets/ANSI/mnist_new_32.html)
+[MNIST 32 activations](http://jcboyd.github.io/assets/ASNI/mnist_new_32.html)
 
-[MNIST 64 activations](http://jcboyd.github.io/assets/ANSI/mnist_new_64.html)
+[MNIST 64 activations](http://jcboyd.github.io/assets/ASNI/mnist_new_64.html)
 
-[MNIST 256 activations](http://jcboyd.github.io/assets/ANSI/mnist_new_256.html)
+[MNIST 256 activations](http://jcboyd.github.io/assets/ASNI/mnist_new_256.html)
 
-[MNIST 512 activations](http://jcboyd.github.io/assets/ANSI/mnist_new_512.html)
+[MNIST 512 activations](http://jcboyd.github.io/assets/ASNI/mnist_new_512.html)
 
-[MNIST 1024 activations](http://jcboyd.github.io/assets/ANSI/mnist_new_1024.html)
+[MNIST 1024 activations](http://jcboyd.github.io/assets/ASNI/mnist_new_1024.html)
 
-[MNIST fast](http://jcboyd.github.io/assets/ANSI/mnist_new_fast.html)
+[MNIST fast](http://jcboyd.github.io/assets/ASNI/mnist_new_fast.html)
 
-[CIFAR-10](http://jcboyd.github.io/assets/ANSI/struc_dropout_cifar10_new.html)
+[CIFAR-10](http://jcboyd.github.io/assets/ASNI/struc_dropout_cifar10_new.html)
 
-[CIFAR-10 fast](http://jcboyd.github.io/assets/ANSI/struc_dropout_cifar10_fast.html)
+[CIFAR-10 fast](http://jcboyd.github.io/assets/ASNI/struc_dropout_cifar10_fast.html)
 
-[CIFAR-100](http://jcboyd.github.io/assets/ANSI/strucorr_dropout_cifar100_new.html)
+[CIFAR-100](http://jcboyd.github.io/assets/ASNI/strucorr_dropout_cifar100_new.html)
 
-[CIFAR-100 fast](http://jcboyd.github.io/assets/ANSI/strucorr_dropout_cifar100_fast.html)
+[CIFAR-100 fast](http://jcboyd.github.io/assets/ASNI/strucorr_dropout_cifar100_fast.html)
 
-[MNIST varying](http://jcboyd.github.io/assets/ANSI/structured_dropoutmnist_varying.html)
+[MNIST varying](http://jcboyd.github.io/assets/ASNI/structured_dropoutmnist_varying.html)
 
-[Simulation](http://jcboyd.github.io/assets/ANSI/Simul_struc_drop_fast.html)
+[Simulation](http://jcboyd.github.io/assets/ASNI/Simul_struc_drop_fast.html)
